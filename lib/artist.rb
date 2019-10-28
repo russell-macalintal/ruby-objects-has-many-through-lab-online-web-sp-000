@@ -6,6 +6,6 @@ class Artist
     @name = name
     @@all << self
   end
-  
+
 
 end
